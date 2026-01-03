@@ -4,7 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CartCheckoutApiApplication {   
+public class CartCheckoutApiApplication {
+
+    
     public static void main(String[] args) {
         SpringApplication.run(CartCheckoutApiApplication.class, args);
     }
