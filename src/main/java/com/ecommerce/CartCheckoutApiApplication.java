@@ -11,7 +11,6 @@ public class CartCheckoutApiApplication {
 
 
     
-    
     public static void main(String[] args) {
         SpringApplication.run(CartCheckoutApiApplication.class, args);
     }
